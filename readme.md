@@ -1,0 +1,1 @@
+Hello, this is the note where all the learning information will be stored!
